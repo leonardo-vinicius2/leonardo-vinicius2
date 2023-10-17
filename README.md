@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=20&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Leonardo+Vinicius+:D;Tenho+16+anos;Curso+Técnico+em+Informática+para+Internet;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Leonardo+Vinicius+:D;Tenho+16+anos;Curso+Técnico+em+Informática+para+Internet;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
      <img   height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardo-vinicius&show_icons=true&theme=radical&count_private=true)"/>
