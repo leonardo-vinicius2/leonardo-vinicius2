@@ -5,6 +5,14 @@
 - ⚡ Fato interessante: Nas horas vaga eu edito videos e faço design.
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DF01D7&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Luna+Porto+:D;Tenho+17+anos;Curso+Técnico+em+Informática+para+Internet;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+
+<div align="center">
+     <img   height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardo-vinicius&show_icons=true&theme=radical&count_private=true)"/>
+     <img   height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-vinicius&layout=compact&langs_count=168&theme=radical"/>
+</div>
 
 
 <div style="display: inline_block"><br>
